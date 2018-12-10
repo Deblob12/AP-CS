@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=board\ mark
+comment0.target=ComputerPlayer(TicTacToeBoard,\ char)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\n\ Retrieves\ the\ name\ associated\ with\ this\ Player.\n\ @return\ Name\ of\ the\ Player.\n
+comment2.params=
+comment2.target=boolean\ makeMove()
+comment2.text=\n\ Attempts\ a\ move.\ The\ computer\ will\ choose\ random\ spots\ on\ the\ board\n\ until\ one\ of\ them\ succeeds.\ \n\ @return\ True\ if\ the\ move\ results\ in\ a\ finished\ game.\n
+numComments=3

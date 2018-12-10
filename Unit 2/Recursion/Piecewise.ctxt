@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Piecewise()
+comment1.params=x
+comment1.target=int\ f1(int)
+comment2.params=y
+comment2.target=int\ f2(int)
+comment3.params=z
+comment3.target=int\ f4(int)
+numComments=4
