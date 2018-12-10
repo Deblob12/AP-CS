@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=void\ printMusic(Music[])
+comment1.params=m\ title
+comment1.target=Music\ searchTitle(Music[],\ java.lang.String)
+comment2.params=m\ year
+comment2.target=Music[]\ searchYear(Music[],\ int)
+comment3.params=m\ singer
+comment3.target=Music[]\ searchSinger(Music[],\ java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\n\ main\ method\n\ \n\ @paran\ args\ String[]\ array\ of\ string\ as\ input\ from\ console.\ \n
+numComments=5
