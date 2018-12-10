@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=void\ printMovies(Movie4[])
+comment0.text=\n\ Print\ the\ movie\ list\n\ \n\ @param\ myMovies\ Movie4[]\ movie\ list\n
+comment1.params=m\ low\ mid\ high
+comment1.target=void\ mergeTitles(Movie4[],\ int,\ int,\ int)
+comment2.params=m\ low\ high
+comment2.target=void\ sortTitles(Movie4[],\ int,\ int)
+comment3.params=m\ low\ mid\ high
+comment3.target=void\ mergeYears(Movie4[],\ int,\ int,\ int)
+comment4.params=m\ low\ high
+comment4.target=void\ sortYears(Movie4[],\ int,\ int)
+comment5.params=m\ low\ mid\ high
+comment5.target=void\ mergeStudios(Movie4[],\ int,\ int,\ int)
+comment6.params=m\ low\ high
+comment6.target=void\ sortStudios(Movie4[],\ int,\ int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
