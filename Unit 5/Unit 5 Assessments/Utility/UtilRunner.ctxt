@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ trySpecialCases()
+comment2.params=s
+comment2.target=void\ reportBad(java.lang.String)
+comment3.params=s
+comment3.target=void\ reportGood(java.lang.String)
+comment4.params=methodCall\ result\ expected
+comment4.target=void\ print(java.lang.String,\ long,\ long)
+comment5.params=methodCall\ result\ expected
+comment5.target=void\ print(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=void\ printBlankLine()
+numComments=7
