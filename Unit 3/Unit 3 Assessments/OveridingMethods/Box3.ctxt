@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=l\ w\ h
+comment0.target=Box3(int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getHeight()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=box
+comment3.target=boolean\ equals(Box3)
+comment3.text=\n\ equals\ method\ for\ Box3\ class.\ This\ method\ can\ be\ sued\ for\ both\ Box3\ and\ Cube3\ objects.\ \n\ \n\ @param\ box\ a\ Box3\ object\ to\ check\ for\ the\ equality\ by\ contents.\ \n\ @return\ boolean\ for\ equality\ check.\ \n
+numComments=4

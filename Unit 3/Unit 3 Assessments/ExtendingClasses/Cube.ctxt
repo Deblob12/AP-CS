@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=side
+comment0.target=Cube(int)
+comment0.text=\n\ Constructor\ of\ the\ Cube\ class\n\ \n\ @param\ side\ int\ side\ length\ value\ of\ a\ cube\n
+comment1.params=
+comment1.target=int\ getSide()
+comment1.text=\n\ get\ the\ side\ length\ of\ a\ cube\n\ \n\ @return\ int\ length\ of\ a\ side\ in\ a\ cube\n
+numComments=2

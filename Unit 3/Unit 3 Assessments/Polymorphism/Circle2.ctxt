@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=p_x\ p_y\ r
+comment0.target=Circle2(int,\ int,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ circle\n
+comment1.params=
+comment1.target=int\ getRadius()
+comment1.text=\n\ getter\ method\ for\ radius\ of\ a\ Circle2\ object\ in\ int\ type.\ \n\ \n\ @return\ int\ the\ radius\ of\ an\ Circle2\ object.\ \n
+comment2.params=
+comment2.target=java.lang.String\ getCenter()
+comment2.text=\n\ getter\ method\ for\ center\ of\ a\ Circle2\ object\ in\ String\ format\n\ \n\ @return\ String\ center\ coordination\ in\ a\ String.\ \n
+numComments=3
