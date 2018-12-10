@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=ch\ value
+comment0.target=char\ getCipherAlphabet(char,\ int)
+comment1.params=message\ value
+comment1.target=java.lang.String\ encrypt(java.lang.String,\ int)
+numComments=2

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=aU\ aL
+comment0.target=Decryption(char[],\ char[])
+comment1.params=
+comment1.target=char[]\ NewU()
+comment2.params=
+comment2.target=char[]\ NewL()
+comment3.params=a
+comment3.target=java.lang.String\ alphabetToString(char[])
+comment4.params=ch
+comment4.target=char\ getDecipherAlphabet(char)
+comment5.params=message
+comment5.target=java.lang.String\ decrypt(java.lang.String)
+numComments=6

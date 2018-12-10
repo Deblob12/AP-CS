@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=limit
+comment0.target=Prime(int)
+comment1.params=
+comment1.target=int\ getLimit()
+comment2.params=
+comment2.target=java.util.ArrayList\ getList()
+comment3.params=n
+comment3.target=boolean\ isPrime(int)
+comment4.params=
+comment4.target=void\ printPrime()
+numComments=5

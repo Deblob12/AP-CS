@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=ch\ value
+comment0.target=char\ getDecipherAlphabet(char,\ int)
+comment1.params=message\ value
+comment1.target=java.lang.String\ decrypt(java.lang.String,\ int)
+numComments=2
